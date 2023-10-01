@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anshverma/" target="blank"><img align="center" src="![image](https://github.com/Ansh-Verma/Ansh-Verma/assets/99255172/97ff51c8-3055-4446-8e48-8dad6234a1f2)" alt="ansh verma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshverma/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ansh verma" height="30" width="40" /></a>
 <a href="https://kaggle.com/ansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ansh" height="30" width="40" /></a>
 <a href="https://instagram.com/anshhhverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshhhverma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshv200210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshv200210" height="30" width="40" /></a>
