@@ -11,10 +11,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshverma/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ansh verma" height="60" width="60" /></a>
-<a href="https://kaggle.com/ansh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="ansh" height="60" width="60" /></a>
+<a href="https://kaggle.com/ansh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="ansh" height="40" width="60" /></a>
 <a href="https://instagram.com/anshhhverma" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg" alt="anshhhverma" height="60" width="60" /></a>
 <a href="https://www.leetcode.com/anshv200210" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="anshv200210" height="60" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshv200210" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="anshv200210" height="60" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anshv200210" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="anshv200210" height="40" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
