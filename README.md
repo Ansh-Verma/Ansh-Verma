@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ansh Verma</h1>
 <h3 align="center">B.Tech CSE Student | Passionate about Coding, Web Development, and AI | Seeking Opportunities to Learn and Grow</h3>
 
-<a <img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" alt="coding" height="250" width="400"> </a>
+ <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding"  width="400"> 
 
 
 - 📫 Contact info: **anshv200210@gmail.com**
