@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ansh Verma</h1>
+<h1 align="center">Hey👋, I'm Ansh Verma</h1>
 <h3 align="center">B.Tech CSE Student | Passionate about Coding, Web Development, and AI | Seeking Opportunities to Learn and Grow</h3>
 
  <img align="right" src="https://media.post.rvohealth.io/wp-content/uploads/sites/4/2022/05/PC-352806-My_Life_with_OCD-How_OCD_Blocks_Productivity_and_What_to_Do-Gif-1296x728-Header-v2.gif" alt="coding"  width="400"> 
@@ -6,7 +6,7 @@
 
 - 📫 Contact info: **anshv200210@gmail.com**
 
-- ⚡ Fun fact **I think I am breathing.**
+- ⚡ Fun fact **I think I am in your thoughts right now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
