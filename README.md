@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ansh Verma</h1>
 <h3 align="center">B.Tech CSE Student | Passionate about Coding, Web Development, and AI | Seeking Opportunities to Learn and Grow</h3>
 
- <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding"  width="400"> 
+ <img align="right" src="https://media.post.rvohealth.io/wp-content/uploads/sites/4/2022/05/PC-352806-My_Life_with_OCD-How_OCD_Blocks_Productivity_and_What_to_Do-Gif-1296x728-Header-v2.gif" alt="coding"  width="400"> 
 
 
 - 📫 Contact info: **anshv200210@gmail.com**
