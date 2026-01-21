@@ -45,53 +45,39 @@
 
 ## 🎯 About Me
 
-```python
-class AIMLEngineer:
-    def __init__(self):
-        self.name = "Ansh Verma"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.education = "B.Tech Computer Science | Final Year"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "JavaScript", "Java", "SQL"]
-        
-    def current_focus(self):
-        return {
-            "ai_ml": ["NLP", "LLMs", "Computer Vision", "ML Model Deployment"],
-            "development": ["Full Stack Apps", "System Design", "Cloud Architecture"],
-            "learning": ["Advanced Deep Learning", "MLOps", "Scalable Systems"]
-        }
-    
-    def expertise(self):
-        return {
-            "ai_domains": ["Natural Language Processing", "Large Language Models", 
-                          "Face Recognition", "Intelligent Systems"],
-            "engineering": ["REST APIs", "Database Design", "Cloud Deployment"],
-            "philosophy": "Learning by Building Real-World Solutions 🚀"
-        }
-    
-    def interests(self):
-        return ["AI Research", "Open Source", "Tech Writing ✍️", "Music 🎵"]
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-me = AIMLEngineer()
-print(f"👋 Hey! I'm {me.name}, transforming ideas into intelligent systems!")
-```
+### 👋 Hey there! I'm Ansh Verma
 
-<details>
-<summary><b>🚀 What Makes Me Tick</b></summary>
-<br/>
+🎓 **B.Tech Computer Science**  
+📍 **Based in India** 🇮🇳  
+💼 **AI/ML Engineer & Full Stack Developer**
+
+### 🚀 What I Do
 
 I'm passionate about leveraging **AI/ML** to solve real-world problems. From building intelligent proctoring systems to exploring the frontiers of **NLP and LLMs**, I believe in creating technology that makes a difference.
 
-**My Approach:**
-- 🧠 **Research-Driven**: Combining academic rigor with practical implementation
-- 🛠️ **Build to Learn**: Theory is great, but I learn best by shipping products
-- 🌐 **Full-Stack Mindset**: From model training to production deployment
-- 📈 **Data-First**: Let the data tell the story, then build the solution
+- 🤖 Building **AI-powered applications** with real-world impact
+- 🌐 Developing **full-stack solutions** from concept to deployment
+- 📊 Working with **NLP, LLMs, and Computer Vision** technologies
+- 🔬 Combining **research** with practical software engineering
+- 🎯 Philosophy: **Learning by Building Real-World Solutions**
 
-**Beyond Code:**
-When I'm not training models or debugging APIs, you'll find me writing about tech, exploring music, or contributing to open-source projects.
+### 💡 Current Focus
 
-</details>
+- 🧠 Advanced **Deep Learning** and **MLOps**
+- 🏗️ **Scalable System Design** and **Cloud Architecture**
+- 🔍 **Natural Language Processing** and **Large Language Models**
+- ⚡ Building production-ready **AI/ML pipelines**
+
+### 🎨 Beyond Code
+
+When I'm not training models or debugging APIs, you'll find me:
+- ✍️ Writing about tech and sharing knowledge
+- 🎵 Exploring music and creative pursuits
+- 🌟 Contributing to open-source projects
+
+<br clear="right"/>
 
 <br/>
 
@@ -107,73 +93,53 @@ When I'm not training models or debugging APIs, you'll find me writing about tec
 ### 🤖 AI/ML Stack
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" /><br/>
-<sub><b>TensorFlow</b></sub>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/><br/>
-<sub><b>OpenCV</b></sub>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
+<br>OpenCV
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" alt="scikit-learn"/><br/>
-<sub><b>scikit-learn</b></sub>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"/>
+<br>scikit-learn
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/><br/>
-<sub><b>Pandas</b></sub>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<br>Pandas
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/><br/>
-<sub><b>NumPy</b></sub>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+<br>NumPy
 </td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65" alt="Hugging Face"/><br/>
-<sub><b>Hugging Face</b></sub>
+<td align="center" width="96">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
+<br>Hugging Face
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="65" height="65" alt="Jupyter"/><br/>
-<sub><b>Jupyter</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/Specialization-NLP%20%7C%20LLMs%20%7C%20Computer%20Vision-00ff88?style=for-the-badge&labelColor=1a1a1a" />
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
+<br>Jupyter
 </td>
 </tr>
 </table>
 
-### 💻 Development Stack
+<img src="https://img.shields.io/badge/Specialization-NLP%20%7C%20LLMs%20%7C%20Computer%20Vision-00ff88?style=for-the-badge&labelColor=1a1a1a" />
 
-**Languages & Core**
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,tailwind,nodejs,express" />
 </p>
 
-**Frontend**
+### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-  <img src="https://img.shields.io/badge/Responsive_Design-Expert-00d9ff?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,azure,docker" />
 </p>
 
-**Backend & Database**
+### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash" />
-</p>
-
-**Tools & Automation**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-ff6d5a?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash" />
+  <img src="https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 </div>
@@ -192,18 +158,18 @@ When I'm not training models or debugging APIs, you'll find me writing about tec
 <td width="50%" valign="top">
 
 ### 🔬 Research & Development
-- **AI/ML Research**: Hands-on experience in research methodologies and implementation
-- **Software Engineering**: Building production-grade applications with modern tech stacks
-- **Problem Solving**: Translating complex requirements into elegant solutions
+- 🧪 **AI/ML Research**: Hands-on experience in research methodologies and implementation
+- 💻 **Software Engineering**: Building production-grade applications with modern tech stacks
+- 🧩 **Problem Solving**: Translating complex requirements into elegant solutions
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Core Competencies
-- **Machine Learning**: Model development, training, and optimization
-- **Natural Language Processing**: LLM integration and NLP pipelines
-- **Full-Stack Development**: End-to-end application architecture
-- **System Design**: Scalable and maintainable solutions
+- 🤖 **Machine Learning**: Model development, training, and optimization
+- 📝 **Natural Language Processing**: LLM integration and NLP pipelines
+- 🌐 **Full-Stack Development**: End-to-end application architecture
+- 🏗️ **System Design**: Scalable and maintainable solutions
 
 </td>
 </tr>
@@ -220,17 +186,22 @@ When I'm not training models or debugging APIs, you'll find me writing about tec
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh-Verma&show_icons=true&theme=tokyonight&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&hide_border=false&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Verma&theme=tokyonight&border=00d9ff&background=0d1117&ring=00d9ff&fire=ff4081&currStreakLabel=00ff88&sideLabels=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh-Verma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Verma&layout=compact&theme=tokyonight&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&hide_border=false&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Verma&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00ff88&point=ffffff&area=true&hide_border=false&border_color=00d9ff&radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Verma&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff4081&currStreakLabel=00ff88" alt="GitHub Streak" />
 
-<!-- Activity Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Verma&theme=tokyonight" width="98%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Verma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ansh-Verma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,MultiLanguage" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ansh-Verma&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" alt="Coding Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ansh-Verma&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -247,54 +218,78 @@ When I'm not training models or debugging APIs, you'll find me writing about tec
 
 ### 🎯 AI-Proctor | Intelligent Examination Monitoring System
 
-<a href="https://github.com/Ansh-Verma/AI-Proctor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh-Verma&repo=AI-Proctor&theme=tokyonight&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&border_radius=10" />
-</a>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Category-AI%2FML-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-TensorFlow%20%7C%20React%20%7C%20Flask-orange?style=for-the-badge" />
 
 </div>
+
+<br/>
 
 <table>
 <tr>
 <td width="60%">
 
 **🔥 What It Does:**
+
 An AI-powered online examination monitoring system that ensures exam integrity through intelligent surveillance and real-time analysis.
 
 **✨ Key Features:**
-- 👤 **Biometric Authentication**: Face recognition-based identity verification
-- 📹 **Real-Time Monitoring**: Continuous activity tracking during exams
-- 🤖 **AI-Powered Detection**: Machine learning algorithms for anomaly detection
-- 📊 **Analytics Dashboard**: Comprehensive reporting and insights
-- ⚡ **Low Latency**: Optimized for real-time performance
+
+- 👤 **Biometric Authentication**: Face recognition-based identity verification using advanced computer vision
+- 📹 **Real-Time Monitoring**: Continuous activity tracking during exams with intelligent alerts
+- 🤖 **AI-Powered Detection**: Machine learning algorithms for anomaly detection and behavior analysis
+- 📊 **Analytics Dashboard**: Comprehensive reporting and insights for administrators
+- ⚡ **Low Latency**: Optimized for real-time performance with minimal system overhead
+
+**🎯 Impact:**
+
+Revolutionizing online education by bringing trust and integrity to remote examinations through cutting-edge AI technology. Used by educational institutions to maintain academic standards in digital environments.
 
 </td>
 <td width="40%">
 
 **💡 Technology Stack:**
 
-```yaml
-AI/ML:
-  - TensorFlow
-  - OpenCV
-  - Face Recognition
-  - Anomaly Detection
+**AI/ML:**
+- TensorFlow
+- OpenCV
+- Face Recognition API
+- Anomaly Detection Models
+- scikit-learn
 
-Backend:
-  - Python/Flask
-  - REST APIs
-  - Real-time Processing
+**Backend:**
+- Python/Flask
+- REST APIs
+- Real-time WebSockets
+- MongoDB
 
-Frontend:
-  - React
-  - Responsive UI
-  - Live Streaming
-```
+**Frontend:**
+- React
+- Responsive UI
+- Live Video Streaming
+- Material Design
+
+**Deployment:**
+- Docker
+- Azure Cloud
+- CI/CD Pipeline
+
+<br/>
+
+<div align="center">
+
+**🔗 View Project**
+
+<a href="https://github.com/Ansh-Verma/AI-Proctor">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 </td>
 </tr>
 </table>
-
-**🎯 Impact:** Revolutionizing online education by bringing trust and integrity to remote examinations through cutting-edge AI technology.
 
 <br/>
 
@@ -303,20 +298,11 @@ Frontend:
 
 <br/>
 
-## 🎨 Coding Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!-- Coding stats will appear here if you set up WakaTime -->
-<!--END_SECTION:waka-->
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Verma/Ansh-Verma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Verma/Ansh-Verma/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ansh-Verma/Ansh-Verma/output/github-contribution-grid-snake.svg">
-</picture>
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Verma&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=ffffff)](https://github.com/Ansh-Verma)
 
 </div>
 
@@ -331,7 +317,7 @@ Frontend:
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 
@@ -353,40 +339,40 @@ Frontend:
 ### 📬 Reach Out
 
 <a href="https://anshverma.dev">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/anshverma">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:anshverma1.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/anshhhverma">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 <a href="https://leetcode.com/anshv200210">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💡 Interested In
+### 💡 Open To
 
-<img src="https://img.shields.io/badge/AI%2FML_Engineering-00ff88?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Full_Stack_Development-00d9ff?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/NLP_&_LLMs-ff4081?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Research_Collaboration-9b59b6?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Open_Source-f39c12?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/AI%2FML_Engineering-00ff88?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full_Stack_Development-00d9ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP_&_LLMs-ff4081?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research_Collaboration-9b59b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_Source-f39c12?style=for-the-badge" />
 
 <br/><br/>
 
 ---
 
-<sub>**💚 Thanks for stopping by!** If you find my work interesting, feel free to ⭐ some repositories!</sub>
+<sub>💙 **Thanks for visiting!** Feel free to ⭐ repositories you find interesting!</sub>
 
 <br/>
 
-**⚡ From [Ansh-Verma](https://github.com/Ansh-Verma) with 💙**
+**⚡ From [Ansh-Verma](https://github.com/Ansh-Verma) | Building the future, one commit at a time**
 
 </div>
 
