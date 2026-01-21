@@ -192,7 +192,7 @@ When I'm not training models or debugging APIs, you'll find me:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Verma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ansh-Verma&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" alt="Coding Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh-Verma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9&hide=contribs&rank_icon=github" alt="GitHub Contribution Stats" />
 
 </div>
 
